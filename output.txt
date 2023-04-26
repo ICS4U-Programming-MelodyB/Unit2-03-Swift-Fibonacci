@@ -1,0 +1,10 @@
+The fibonacci sequence of 8
+ is 21
+The fibonacci sequence of 10
+ is 55
+The fibonacci sequence of 0
+ is 0
+Please enter a number greater than 0.
+Please enter valid input.
+The fibonacci sequence of 1
+ is 1
